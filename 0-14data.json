@@ -1,0 +1,212 @@
+{
+	"Benin":{
+		"prevalence": 0.2,
+		"urban": 0,
+		"rural": 0,
+		"poorest": 1,
+		"second": 0,
+		"middle": 0,
+		"fourth": 0,
+		"richest": 0
+	},
+	"Burkina Faso":{
+		"prevalence": 13,
+		"urban": 7,
+		"rural": 15,
+		"poorest": 16,
+		"second": 16,
+		"middle": 13,
+		"fourth": 12,
+		"richest": 8
+	},
+	"Central African Republic":{
+		"prevalence": 1,
+		"urban": 1,
+		"rural": 2,
+		"poorest": 2,
+		"second": 1,
+		"middle": 2,
+		"fourth": 0.4,
+		"richest": 0.4
+	},
+	"Chad":{
+		"prevalence": 10,
+		"urban": 9,
+		"rural": 10,
+		"poorest": 11,
+		"second": 10,
+		"middle": 11,
+		"fourth": 10,
+		"richest": 8
+	},
+	"Cote d'Ivoire":{
+		"prevalence": 11,
+		"urban": 8,
+		"rural": 13,
+		"poorest": 14,
+		"second": 14,
+		"middle": 14,
+		"fourth": 6,
+		"richest": 3
+	},
+	"Egypt":{
+		"prevalence": 14,
+		"urban": 10,
+		"rural": 16,
+		"poorest": 23,
+		"second": 16,
+		"middle": 13,
+		"fourth": 11,
+		"richest": 5
+	},
+	"Eritrea":{
+		"prevalence": 33,
+		"urban": 25,
+		"rural": 37,
+		"poorest": 41,
+		"second": 39,
+		"middle": 33,
+		"fourth": 29,
+		"richest": 22
+	},
+	"Ethiopia":{
+		"prevalence": 16,
+		"urban": 7,
+		"rural": 17,
+		"poorest": 16,
+		"second": 16,
+		"middle": 16,
+		"fourth": 19,
+		"richest": 10
+	},
+	"Gambia":{
+		"prevalence": 56,
+		"urban": 51,
+		"rural": 60,
+		"poorest": 51,
+		"second": 55,
+		"middle": 62,
+		"fourth": 66,
+		"richest": 45
+	},
+	"Ghana":{
+		"prevalence": 1,
+		"urban": 0.3,
+		"rural": 1,
+		"poorest": 2,
+		"second": 0.2,
+		"middle": 0.1,
+		"fourth": 0.2,
+		"richest": 0.3
+	},
+	"Guinea":{
+		"prevalence": 45,
+		"urban": 40,
+		"rural": 48,
+		"poorest": 50,
+		"second": 43,
+		"middle": 48,
+		"fourth": 44,
+		"richest": 41
+	},
+	"Guinea-Bissau":{
+		"prevalence": 30,
+		"urban": 21,
+		"rural": 35,
+		"poorest": 13,
+		"second": 41,
+		"middle": 44,
+		"fourth": 28,
+		"richest": 18
+	},
+	"Kenya":{
+		"prevalence": 3,
+		"urban": 2,
+		"rural": 3,
+		"poorest": 6,
+		"second": 2,
+		"middle": 2,
+		"fourth": 2,
+		"richest": 1
+	},
+	"Mali":{
+		"prevalence": 76,
+		"urban": 80,
+		"rural": 76,
+		"poorest": 72,
+		"second": 77,
+		"middle": 75,
+		"fourth": 78,
+		"richest": 79
+	},
+	"Mauritania":{
+		"prevalence": 53,
+		"urban": 35,
+		"rural": 68,
+		"poorest": 83,
+		"second": 71,
+		"middle": 49,
+		"fourth": 37,
+		"richest": 14
+	},
+	"Nigeria":{
+		"prevalence": 25,
+		"urban": 21,
+		"rural": 29,
+		"poorest": 43,
+		"second": 38,
+		"middle": 26,
+		"fourth": 20,
+		"richest": 14
+	},
+	"Senegal":{
+		"prevalence": 14,
+		"urban": 8,
+		"rural": 18,
+		"poorest": 26,
+		"second": 17,
+		"middle": 13,
+		"fourth": 6,
+		"richest": 3
+	},
+	"Sudan":{
+		"prevalence": 32,
+		"urban": 28,
+		"rural": 33,
+		"poorest": 30,
+		"second": 30,
+		"middle": 32,
+		"fourth": 36,
+		"richest": 30
+	},
+	"Togo":{
+		"prevalence": 0.3,
+		"urban": 0.2,
+		"rural": 0.3,
+		"poorest": 1,
+		"second": 0.1,
+		"middle": 0.2,
+		"fourth": 0.2,
+		"richest": 0.1
+	},
+	"United Republic of Tanzania":{
+		"prevalence": 0.4,
+		"urban": 0.1,
+		"rural": 0.4,
+		"poorest": 1,
+		"second": 0.2,
+		"middle": 0.3,
+		"fourth": 0.1,
+		"richest": 0.1
+	},
+	"Uganda":{
+		"prevalence": 1,
+		"urban": 1,
+		"rural": 1,
+		"poorest": 2,
+		"second": 2,
+		"middle": 0.4,
+		"fourth": 2,
+		"richest": 1
+	}
+}
